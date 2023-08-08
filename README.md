@@ -18,14 +18,14 @@
 
 <div aling="left">
     <h3> 📝 Lenguajes y Herramientas : </h3>
-    <div>
-        <img src="C:\Users\johan\Documents\Portfolio\java.png" title="Java" alt="Java"/>&nbsp;
-        <img src="![image](https://github.com/JohaniitaMaii/JohaniitaMaii/assets/92377083/b1d915a5-d007-4006-a50c-ea0543297aa4)" title="Java" alt="MySQL"/>&nbsp;
-        <img src="C:\Users\johan\Documents\Portfolio\html-5.png" title="Java" alt="HTML5"/>&nbsp;
-        <img src="C:\Users\johan\Documents\Portfolio\css-3.png" title="Java" alt="CSS"/>&nbsp;
-        <img src="C:\Users\johan\Documents\Portfolio\spring-3.png" title="Java" alt="Spring-Initializr"/>&nbsp;
-        <img src="C:\Users\johan\Documents\Portfolio\bootstrap.png" title="Java" alt="Bootstrap"/>&nbsp;
-        <img src="C:\Users\johan\Documents\Portfolio\python.png" title="Java" alt="Python"/>&nbsp;
+    <div aling="center">
+        <img src="java.png" title="Java" alt="Java"/>&nbsp;
+        <img src="mysql.png" title="MySQL" alt="MySQL"/>&nbsp;
+        <img src="html-5.png" title="HTML5" alt="HTML5"/>&nbsp;
+        <img src="css-3.png" title="CSS" alt="CSS"/>&nbsp;
+        <img src="spring-3.png" title="Spring" alt="Spring-Initializr"/>&nbsp;
+        <img src="bootstrap.png" title="Boostrap" alt="Boostrap"/>&nbsp;
+        <img src="python.png" title="Pyhton" alt="Python"/>&nbsp;
   </div>
 </div> 
 
