@@ -16,14 +16,14 @@
 
 ---
 
-<div aling="left">
+<div id="languajes" aling="left">
     <h3> 📝 Lenguajes y Herramientas : </h3>
     <div aling="center">
         <img src="java.png" title="Java" alt="Java"/>&nbsp;
         <img src="mysql.png" title="MySQL" alt="MySQL"/>&nbsp;
         <img src="html-5.png" title="HTML5" alt="HTML5"/>&nbsp;
         <img src="css-3.png" title="CSS" alt="CSS"/>&nbsp;
-        <img src="spring-3.png" title="Spring" alt="Spring-Initializr"/>&nbsp;
+        <img src="spring.png" title="Spring" alt="Spring-Initializr"/>&nbsp;
         <img src="bootstrap.png" title="Boostrap" alt="Boostrap"/>&nbsp;
         <img src="python.png" title="Pyhton" alt="Python"/>&nbsp;
   </div>
