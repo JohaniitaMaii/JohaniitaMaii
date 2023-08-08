@@ -1,5 +1,5 @@
 <div id="header" aling="center">
-    <img src ="C:\Users\johan\Documents\Portfolio\Black Modern Minimalist Simple Technology Banner.png">
+    <img src ="Banner.png">
     <h1 aling="center" > Hola 👋 Soy Johana Bienvenid@ a mi espacio 🖥️ </h1>
     <h3 aling="center" > Argentina 🇦🇷 31 años. Apasionada por el mundo de la Programación. Fuí becada para estudiar Desarrollo Web Full Stack,
       donde tuve mi primer contacto con este inmenso pero hermoso mundo, desde entonces no dejo de aprender 👩🏻‍💻 </h3>
